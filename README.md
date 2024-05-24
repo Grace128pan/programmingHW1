@@ -3,7 +3,11 @@ Project Name: "Cat Catching the Rat Game" python game(using pygame)
 Email: Zhen.Pan@edu.rtu.lv/gracepan922@gmail.com
 
 Project description:
-1. Win or lose rule: when the cat catches the rat within 10 turns, the cat wins the game; otherwise, the cat loses the game
+1. Win or lose rule: 
+When the cat catches the rat within 10 turns, the cat wins the game; otherwise, the cat loses the game.
+The cat should make the first move. 
+The cat_position and rat_position should be random, and they can move randomly, but the rat should not move to the cat cell
+when they are adjacement.
 
 2. Functionalities:
 1) Background music: background.mp3("super mario" sound effect) is used during the game playing time and it will stop when "pause" button is pressed.
