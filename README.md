@@ -20,7 +20,7 @@ when they are adjacement.
 I. When the cat wins, there will be award.jpg popping up.
 II. The playing layout will be 5 * 5 window_size in black background
 III. The buttons will be in #0FA4AF color with some border-radius to make them rounder
-IV. When the game is over, the background will be white, the black text for users to choose an image as the cat player will show up(when win); otherwise, the black text"game over" will show up with "try again" and "exit" options to choose from.
+IV. When the game is over, the background will be white, the black text for users to choose an image as the cat player will show up(when win); otherwise, the black text"out of turns, the rat got away!" and then "game over!" will show up with "try again" and "exit" options to choose from.
 V. The text will be in "Times New Roman" font
 
 VI. When the player wins the game, the player can choose the cat player from option 0 to 5(user-keyboard input features)
@@ -33,6 +33,7 @@ VI. When the player wins the game, the player can choose the cat player from opt
 1-5 options are actually my pets(4 cats and one dog, the names are their actual names. "Flower" is a real male dog name, not a flower or a cat)
 
 VII. rat.jpg(rat character in the game) and jumpingCat.jpg(default cat character) are free online sources
+VIII. When the cat wins, black text "Cat caught the rat! Congraduations!" will be shown with white background.
 
 5) Button effects:  5 different buttons as follows
 I. During playing, "Instructions", "Pause", " Continue", "Exit" options can be chosen.
