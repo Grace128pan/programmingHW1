@@ -50,3 +50,5 @@ II. When game is finished, "Try again" and "Exit" options are available.
 3) The audio folder includes 3 sound sources(background.mp3; lose.mp3; win.mp3)；
    the image folder includes 8 images: award.jpg, jumpingCat.jpg, dollar.jpg, lucky.jpg, sunny.jpeg, rat.jpg, flower.png, niu.jpg。
 4) The program include a main.py and a functions.py. There is a functionPackages folder including necessary files(functions.py, _init_.py, _pycache_).
+
+PS: there is a Cat Catching the Rat Project.pptx file to pinpoint the key ideas of the project.
